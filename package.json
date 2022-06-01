@@ -1,5 +1,5 @@
 {
-  "name": "ZeroPoint",
+  "name": "zeropoint-11ty-starter_11ty_starter",
   "version": "1.0.2",
   "description": "",
   "main": "index.html",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+project_urlname"
   },
-  "author": "MWDelaney",
+  "author": "zapscribbles",
   "license": "MIT",
   "dependencies": {
   },
